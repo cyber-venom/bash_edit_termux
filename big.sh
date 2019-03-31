@@ -1,7 +1,7 @@
 !/bin/bash
 
 clear
-printf "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMmMMMMMMMMMM
+printf "MMMMMMMMVENOMMMMMMMMMmMMMMMMMMMM
 MMMMMMMMNhMMMMMMMMMMMMMMMMMMMNdhMmMMMMMM
 MMMMMNNhdNMMMMMMMMMMMMMMMMMMMNmmsmmMMMMM
 MMMMMysMMNMMMMMhNMMmMMMMMMMMNMNm/sMMMMMM
@@ -35,5 +35,7 @@ sleep 3
 chainging your interface
 
 
+echo "PS1='\033[01;39m\]┌──\[\033[38;5;208m\]root\[\033[01;39m\]@\[\033[38;5;28m\]user \[\033[01;$ ~:
+\[\033[01;39m\]└──╼\[\033[01;31m\]>\[\033[01;39m\]' " >> ~/.bash_profile
 
 exit
