@@ -38,4 +38,8 @@ printf "\nchainging your interface"
 echo "PS1='\033[01;39m\]┌──\[\033[38;5;208m\]root\[\033[01;39m\]@\[\033[38;5;28m\]user \[\033[01;$ ~:
 \[\033[01;39m\]└──╼\[\033[01;31m\]>\[\033[01;39m\]' " >> ~/.bash_profile
 
+printf "\nNow restart your terminal"
+
+sleep 5
+
 exit
