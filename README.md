@@ -1,5 +1,5 @@
 # bash_edit_termux
-this is costamization for editing termux
+this is custamization for editing termux
 
 to install follow following steps:
 
